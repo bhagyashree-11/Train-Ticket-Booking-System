@@ -1,0 +1,51 @@
+body{
+    background-image:url("../assets/image/train3.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.booking-form-box{  
+    position: absolute;
+    max-width: 350px;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    text-align: center;  
+    margin: 8% 20% 0;
+    padding:0px 10px;
+    background: transparent;
+}
+
+.booking-form-box h1{
+    font-size: 30px;
+    margin: 8px 0px;
+    color: black;
+}
+
+.booking-form input{
+    margin:10px 0px;
+}
+.form{
+    padding:0 15px 20px;
+}
+.form label{
+    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-right: 200px;
+    font-size: 15px;
+    font-weight: bold;
+    color:black;
+}
+
+.form-control{
+    font-size: 15px;
+    border-radius: 10px 10px 10px 10px;   
+}
+.input-grp1 h5{
+    color: #0b4616;
+}
+.input-grp1 h6{
+    color:blue;
+}
+.input-grp1 button{
+    margin-left: 10px;
+}
